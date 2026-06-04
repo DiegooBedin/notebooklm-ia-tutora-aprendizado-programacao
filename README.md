@@ -7,9 +7,9 @@ Caderno temático criado com o NotebookLM para analisar como a IA ajuda e atrapa
 
 Este projeto foi desenvolvido como parte de um desafio do bootcamp da DIO em parceria com a Lupo.
 
-Em meu percurso de aprendizagem na programaçao por conta própria, por vezes me deparei com situacoes onde o material digamos assim "livre" na internet não fornecia a resposta adequada a situação e afim de evitar perca de tempo, era comum que recorresse a inteligencia artificial. 
+Em meu percurso de aprendizagem na programaçao por conta própria, por vezes me deparei com situações onde o material digamos assim "livre" na internet não fornecia a resposta adequada a situação e afim de evitar perca de tempo, era comum que recorresse a inteligência artificial. 
 
-Durante esse processo, percebi que ferramentas de inteligência artificial podem facilitar bastante o acesso a explicações, exemplos e orientações rápidas. Em contraponto, o uso exessivo da ferramenta como também o uso sem orientação e sem contexto devido pode resultar em frustração pois o aprendizado nao se torna produto do tempo dedicado no uso ferramenta.
+Durante esse processo, percebi que ferramentas de inteligência artificial podem facilitar bastante o acesso a explicações, exemplos e orientações rápidas. Em contraponto, o uso excessivo da ferramenta como também o uso sem orientação e sem contexto devido pode resultar em frustração pois o aprendizado não se torna produto do tempo dedicado no uso ferramenta.
 
 Receber uma resposta pronta pode economizar tempo, mas isso não significa necessariamente que houve aprendizado. Uma ferramenta que deveria funcionar como tutora também pode gerar dependência, apresentar respostas incorretas ou entregar códigos avançados demais para o nível do estudante.
 
@@ -154,7 +154,7 @@ Algumas atitudes ajudam a manter o equilíbrio:
 
 ### Conclusão do miniguia
 
-A IA pode ajudar bastante no aprendizado de programação, principalmente quando explica conceitos, oferece feedback e orienta o estudante durante a resolução de problemas. Porém, de forma alguma ela substitui o "executar" do cérebro humano, o papel e a caneta, nem mesmo em uma área onde a demanda basea-se em telas e teclados como esta.
+A IA pode ajudar bastante no aprendizado de programação, principalmente quando explica conceitos, oferece feedback e orienta o estudante durante a resolução de problemas. Porém, de forma alguma ela substitui o "executar" do cérebro humano, o papel e a caneta, nem mesmo em uma área onde a demanda baseia-se em telas e teclados como esta.
 
 Pelo contrário, quando não direcionada corretamente (com objetivo claro do utilizador) ela atrapalha, até mesmo prejudica o aprendizado quando  é utilizada como substituta ao esforço necessário para aprender.
 
